@@ -1,4 +1,4 @@
-Welcome to arXiv Research Sentiment Analyzer! Check it out [here](LINK).
+Welcome to arXiv Research Sentiment Analyzer! Check it out [here](https://arxiv-sentiment-analysis.streamlit.app).
 
 Choose any two topics, from artificial intelligence and machine learning to electrons and latin squares. Choose the chart color you prefer and how many papers should be scraped for the queries.  
 
